@@ -1,2 +1,2 @@
 # streamlit-graphics
-Sample StreamLit grahpics of COVID-19.
+Sample StreamLit grahpics of COVID-19. This sample project was made based on the Live Coding offered by Digital Inovation One (DIO®) available in https://www.youtube.com/watch?v=Qxm5QEEKHqE.
